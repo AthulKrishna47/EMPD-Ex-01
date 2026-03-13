@@ -31,7 +31,7 @@
 ## Input:
 ![alt text](input.png)
 ## Output:
-![alt text](output-1.png)
+![alt text](output.png)
 
 ### Name: Athul Krishna A V
 ### Register Number: 21225240017
